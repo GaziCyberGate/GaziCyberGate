@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/150" alt="Cyber Gate Logo" width="200" height="200" />
+  <img src="[https://via.placeholder.com/150](https://files.fivemerr.com/images/8d2510ce-6113-463c-9bd2-8ddb9411e2fe.png)" alt="Cyber Gate Logo" width="200" height="200" />
 
   # 🛡️ Gazi Üniversitesi Cyber Gate
   ### Bilişim Güvenliği ve Araştırma Topluluğu
@@ -95,5 +95,5 @@ Etkinliklerimizden haberdar olmak ve aramıza katılmak için:
   
   *© 2025 Gazi Üniversitesi Cyber Gate Topluluğu. Tüm Hakları Saklıdır.*
   <br />
-  Built with ❤️ & ☕ by Cyber Gate Team
+  Built with & by Cyber Gate Team
 </div>
