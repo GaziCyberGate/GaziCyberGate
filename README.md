@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[https://via.placeholder.com/150](https://files.fivemerr.com/images/8d2510ce-6113-463c-9bd2-8ddb9411e2fe.png)" alt="Cyber Gate Logo" width="200" height="200" />
+  <img src="https://files.fivemerr.com/images/8d2510ce-6113-463c-9bd2-8ddb9411e2fe.png" alt="Cyber Gate Logo" width="200" height="200" />
 
   # 🛡️ Gazi Üniversitesi Cyber Gate
   ### Bilişim Güvenliği ve Araştırma Topluluğu
