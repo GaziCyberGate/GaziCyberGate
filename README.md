@@ -25,7 +25,7 @@
   <br />
   <br />
 
-  [🌐 Web Sitesi](#) • [📸 Instagram](#) • [💬 Discord](#) • [💼 LinkedIn](#)
+  [🌐 Web Sitesi](https://topluluklar.gazi.edu.tr/view/page/298017) • [📸 Instagram](https://www.instagram.com/gazicybergate/) • [💬 Discord](https://discord.gg/fPK4VgUQ9t) • [💼 LinkedIn](#)
 
 </div>
 
