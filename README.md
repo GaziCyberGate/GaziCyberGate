@@ -80,9 +80,9 @@ Açık kaynak kültürünü destekliyoruz! Projelerimize katkıda bulunmak ister
 
 Etkinliklerimizden haberdar olmak ve aramıza katılmak için:
 
-* **Discord Sunucumuz:** [Katılmak İçin Tıkla](#)
+* **Discord Sunucumuz:** [Katılmak İçin Tıkla](https://discord.gg/fPK4VgUQ9t)
 * **LinkedIn:** [Bizi Takip Et](#)
-* **Instagram:** [@gazi_cybergate](#)
+* **Instagram:** [@gazicybergate](https://www.instagram.com/gazicybergate/)
 * **E-posta:** iletisim@gazicybergate.com
 
 ---
