@@ -83,7 +83,7 @@ Etkinliklerimizden haberdar olmak ve aramıza katılmak için:
 * **Discord Sunucumuz:** [Katılmak İçin Tıkla](https://discord.gg/fPK4VgUQ9t)
 * **LinkedIn:** [Bizi Takip Et](#)
 * **Instagram:** [@gazicybergate](https://www.instagram.com/gazicybergate/)
-* **E-posta:** iletisim@gazicybergate.com
+* **E-posta:** iletisim@cybergategazi.com
 
 ---
 
